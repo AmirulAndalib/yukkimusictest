@@ -92,6 +92,14 @@ shikhar@MacBook~ $ bash start
 <img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
 
 
+## 🖇 Deploy to repl.it and run 24x7
+
+ - it is necessary to run ```setup_replit``` for running the bot 24x7
+ - go to repl.it shell (not console) then run 
+
+
+
+
 ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
