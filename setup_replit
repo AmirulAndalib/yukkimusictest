@@ -1,7 +1,8 @@
+### Yukki Music Bot Installer for replit
+
 cgreen='\033[0;32m'
 cyellow='\033[0;33m'
 cpurple='\033[0;35m'
-
 
 misc_shits(){
     chmod +x ./start_replit
